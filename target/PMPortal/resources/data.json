@@ -1,0 +1,52 @@
+{
+    "metaData": {
+        "idProperty": "id",
+        "totalProperty": "total",
+        "successProperty": "success",
+        "root": "data",
+        "fields": [
+            {
+                "name": "name",
+                "type": "string",
+                "allowBlank": false,
+                "defaultValue": "0"
+            },
+            {
+                "name": "age",
+                "type": "int",
+                "allowBlank": true,
+                "defaultValue": null
+            },
+            {
+                "name": "class",
+                "type": "string",
+                "allowBlank": true,
+                "defaultValue": null
+            }
+        ],
+        "columns": [
+            {
+                "header": "Name",
+                "dataIndex": "name",
+                "sortable": true
+            },
+            {
+                "header": "Age",
+                "dataIndex": "age",
+                "sortable": true
+            },
+            {
+                "header": "Class",
+                "dataIndex": "class",
+                "sortable": true
+            }
+        ]
+    },
+    "data": [
+        {
+            "name": "My Name",
+            "age": "30",
+            "class": "My Class"
+        }
+    ]
+}

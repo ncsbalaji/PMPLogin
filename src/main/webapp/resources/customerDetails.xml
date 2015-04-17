@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<catalog>
+
+<root>
+<customerName>Cisco </customerName>
+<customerPocEmail>ciscoPOC@cisco.com </customerPocEmail>
+<customerLocation> Banglaore</customerLocation>          
+<startDate>02/03/2014 </startDate>
+ <endDate>08/05/2014 </endDate>
+ </root>
+ <root>
+<customerName>Infinera </customerName>
+<customerPocEmail> InfineraPOC@Infinera.com</customerPocEmail>
+<customerLocation> Banglaore</customerLocation>          
+<startDate>02/05/2015 </startDate>
+ <endDate>09/02/2015 </endDate>
+ </root>
+ <root>
+<customerName>Airvana </customerName>
+<customerPocEmail>AirvanaPOC@Airvana.com </customerPocEmail>
+<customerLocation>Banglaore </customerLocation>          
+<startDate>10/01/2015 </startDate>
+ <endDate>11/02/2015 </endDate>
+ </root>
+ <root>
+<customerName> Velankani</customerName>
+<customerPocEmail> VelankaniPOC@Velankani.com</customerPocEmail>
+<customerLocation>Banglaore </customerLocation>          
+<startDate>02/07/2015 </startDate>
+ <endDate>11/10/2015 </endDate>
+ </root>
+ 
+ </catalog>
